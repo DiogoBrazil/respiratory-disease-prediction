@@ -1,3 +1,12 @@
 data
 .venv
 models
+output.jpg
+runs/
+test.py
+test2.py
+weights-att-03-09-2024-3500.keras
+weights-att-03-09-2024.keras
+yolo/
+yolov8n-cls.pt
+Departamento médico
